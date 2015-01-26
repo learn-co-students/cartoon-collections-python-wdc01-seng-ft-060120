@@ -1,4 +1,4 @@
-def roll_call_dwarves(dwarves):
+def roll_call(dwarves):
     result = ""
     for index,dwarf in enumerate(dwarves):
         result += "{}. {}".format(index+1,dwarf)
@@ -23,7 +23,7 @@ def calculate_dollar_amount(receipt):
 
 dwarves = ["Larry","Curly","Moe"]
 
-print(roll_call_dwarves(dwarves))
+print(roll_call(dwarves))
 
 forces = ["Earth","Wind","fire"]
 print(summon_captain_planet(forces))
