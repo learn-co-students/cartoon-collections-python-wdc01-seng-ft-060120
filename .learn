@@ -1,9 +1,6 @@
 tags:
-  - enumerable
-  - iteration
-  - map
-  - collection
-  - each_with_index
+  - arrays
+  - beginner
+  - methods
 languages:
-  - ruby
-resources: 2
+  - python
