@@ -1,8 +1,4 @@
----
-tags: enumerable, iteration, map, collection, each_with_index
-languages: python
-resources: 2
----
+
 
 ## Objectives
 
