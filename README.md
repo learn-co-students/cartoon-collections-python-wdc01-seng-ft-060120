@@ -107,3 +107,5 @@ You can assume that all strings will be lower-case. Take a look a the [include](
 ## Resources
 
 * [Programming Ruby 1.9](http://books.flatironschool.com/books/11?page=459) - [Enumerable](http://books.flatironschool.com/books/11?page=459), page 459
+
+<a href='https://learn.co/lessons/cartoon-collections-python' data-visibility='hidden'>View this lesson on Learn.co</a>
